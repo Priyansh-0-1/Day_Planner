@@ -1,13 +1,26 @@
 # Day_Planner
-# Description
-The day planner helps you to easily record and structure all your tasks for the day in an organsied manner.
+📅 Day Planner
+A sleek and simple Day Planner web app to organize your daily tasks and stay productive. Built using HTML, CSS, and JavaScript, this planner helps you manage your schedule with time blocks and real-time input saving.
 
-# Features 
-Easy to follow design and setup.
-Also, the head line moves down as time passes by and the task is completed for the day.
-This websites is able to update to real time using moment.js. 
-Data is also stored in local storage.
+🚀 Features
+✅ Add, edit, and track daily tasks
 
-# Tech Stack
-Used : HTML, CSS AND JavaScript 
+💾 Tasks auto-saved using local storage
 
+⏰ Time-block layout with hour indicators
+
+🎨 Responsive and clean user interface
+
+🌙 Light and dark mode toggle (optional if included)
+
+🛠️ Tech Stack
+HTML5
+
+CSS3
+
+JavaScript (Vanilla)
+
+🌐 Live Demo
+
+
+👉 https://dayplanner-0-1.netlify.app/
